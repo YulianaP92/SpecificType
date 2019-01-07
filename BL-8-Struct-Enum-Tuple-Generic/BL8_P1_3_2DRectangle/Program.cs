@@ -20,5 +20,4 @@ namespace BL8_P1_3_2DRectangle
             Console.ReadKey();
         }
     }
-
 }
